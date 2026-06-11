@@ -10,7 +10,6 @@ class EnglishTranslations:
 
     START_MSG = (
         "👋 Hello there! I am **Molly File Rename**.\n\n"
-      
     )
 
     CANCEL_MESSAGE = "⚠️ The rename has been **canceled**. Will be updated soon."
