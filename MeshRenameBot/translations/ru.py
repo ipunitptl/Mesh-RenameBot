@@ -8,9 +8,7 @@ class RussianTranslations:
     WRONG_VALUE_ERROR = "❌ Введено недопустимое значение для переменной {{ variable_name }}."
 
     START_MSG = (
-        "👋 Привет! Я **Mesh Rename Bot**.\n\n"
-        "🌟 Открытый исходный код: [GitHub](https://github.com/yash-dk/Mesh-RenameBot/tree/master)\n"
-        "🚀 Вы можете развернуть свой собственный экземпляр!"
+        "👋 Привет! Я **Molly File Rename**.\n\n"
     )
 
     CANCEL_MESSAGE = "⚠️ Переименование было **отменено**. Скоро будет обновлено."
