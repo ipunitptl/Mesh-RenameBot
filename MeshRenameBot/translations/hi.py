@@ -9,7 +9,7 @@ class HindiTranslations:
     WRONG_VALUE_ERROR = "❌ {{ variable_name }} वेरिएबल के लिए अमान्य मान दर्ज किया गया है।"
 
     START_MSG = (
-        "👋 नमस्ते! मैं **Mesh Rename Bot** हूँ।\n\n"
+        "👋 नमस्ते! मैं **Molly File Rename** हूँ।\n\n"
     )
 
     CANCEL_MESSAGE = "⚠️ नाम बदलना **रद्द** कर दिया गया है। जल्द ही अपडेट किया जाएगा।"
