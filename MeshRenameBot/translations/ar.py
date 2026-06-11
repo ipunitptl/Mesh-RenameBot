@@ -9,8 +9,6 @@ class ArabicTranslations:
 
     START_MSG = (
         "👋 مرحبًا! أنا **Mesh Rename Bot**.\n\n"
-        "🌟 مفتوح المصدر: [GitHub](https://github.com/yash-dk/Mesh-RenameBot/tree/master)\n"
-        "🚀 يمكنك نشر نسختك الخاصة!"
     )
 
     CANCEL_MESSAGE = "⚠️ تم **إلغاء** إعادة التسمية. سيتم التحديث قريبًا."
