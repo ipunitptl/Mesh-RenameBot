@@ -8,7 +8,7 @@ class ArabicTranslations:
     WRONG_VALUE_ERROR = "❌ تم إدخال قيمة غير صالحة للمتغير {{ variable_name }}."
 
     START_MSG = (
-        "👋 مرحبًا! أنا **Mesh Rename Bot**.\n\n"
+        "👋 مرحبًا! أنا **Molly File Rename**.\n\n"
     )
 
     CANCEL_MESSAGE = "⚠️ تم **إلغاء** إعادة التسمية. سيتم التحديث قريبًا."
