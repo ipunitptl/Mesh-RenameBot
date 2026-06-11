@@ -8,9 +8,7 @@ class KoreanTranslations:
     WRONG_VALUE_ERROR = "❌ {{ variable_name }} 변수에 잘못된 값이 입력되었습니다."
 
     START_MSG = (
-        "👋 안녕하세요! 저는 **Mesh Rename Bot**입니다.\n\n"
-        "🌟 오픈 소스: [GitHub](https://github.com/yash-dk/Mesh-RenameBot/tree/master)\n"
-        "🚀 직접 인스턴스를 배포할 수 있습니다!"
+        "👋 안녕하세요! 저는 **Molly File Rename**입니다.\n\n"
     )
 
     CANCEL_MESSAGE = "⚠️ 이름 변경이 **취소**되었습니다. 곧 업데이트될 예정입니다."
